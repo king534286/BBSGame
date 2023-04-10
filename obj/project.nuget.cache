@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxwRoXMOmUR/PvLTHKkmTybXdto9s8By588CWD8YxsgwmQugWyGAUCslmCwFez2zaFKa5+ft2Cb5ws0ql+HtMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L\\source\\repos\\BBSGame\\BBSGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\L\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\L\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
